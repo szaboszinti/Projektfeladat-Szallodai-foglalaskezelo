@@ -1,0 +1,27 @@
+const questions = [
+        {
+          question: "Hány lóerős a gyári 1.3L 16V Suzuki Swift?",
+          answers: ["1 LE", "VÉGTELEN LE", "1000 LE", "85(nem ez) LE"],
+          correct: 1
+        },
+        {
+          question: "Mennyi a végsebessege?",
+          answers: ["100", "30", "Összessel", "200"],
+          correct: 2
+        },
+        {
+          question: "Milyen plusz helyen tud még menni az Extreme Off-Road Swift változat?",
+          answers: ["Hegyseg", "Sár", "Vulkánba", "Földút"],
+          correct: 2
+        },
+        {
+          question: "Milyen gyorsulásra képes a Drag Race Beast Swift 0-ról 500 km/h-ra?",
+          answers: ["10 másodperc", "8 másodperc", "5 másodperc", "2 másodperc"],
+          correct: 2
+        },
+        {
+          question: "Milyen extra cucc van a gyári swiftbe?",
+          answers: ["Fék", "Tesla rakéta kilovöje", "Klíma", "Ülés fütés"],
+          correct: 1
+        }
+      ];

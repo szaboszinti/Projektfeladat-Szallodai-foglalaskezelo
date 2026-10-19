@@ -1,1 +1,0 @@
-# Projektfeladat-Szallodai-foglalaskezelo

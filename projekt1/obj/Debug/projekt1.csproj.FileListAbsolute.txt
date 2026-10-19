@@ -1,0 +1,10 @@
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\obj\Debug\projekt1.csproj.AssemblyReference.cache
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\obj\Debug\projekt1.Properties.Resources.resources
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\obj\Debug\projekt1.csproj.GenerateResource.cache
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\obj\Debug\projekt1.csproj.CoreCompileInputs.cache
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\bin\Debug\projekt1.exe.config
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\bin\Debug\projekt1.exe
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\bin\Debug\projekt1.pdb
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\obj\Debug\projekt1.exe
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\obj\Debug\projekt1.pdb
+C:\Users\SzaboSzintia\Documents\GitHub\Projektfeladat-Szallodai-foglalaskezelo\projekt1\obj\Debug\projekt1.Form1.resources
